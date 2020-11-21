@@ -1,2 +1,2 @@
 # MinimumEnclosingCircleinC
- MinimumEnclosingCircle
+ Minimum Enclosing Circle Problem
